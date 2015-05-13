@@ -1,0 +1,17 @@
+{
+    "name": "pragmaticlinux/foundation-css",
+    "type": "library",
+    "description": "Foundation framework for frontend",
+    "keywords": ["css","framework","front-end","html"],
+    "homepage": "http://www.pragmaticlinux.org",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Monolog": "src"
+        }
+    },
+	"minimum-stability": "stable"
+}
